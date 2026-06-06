@@ -1,0 +1,20 @@
+# Freddie Mac loan-level data — do NOT commit (large + license-restricted)
+sample_orig_*.txt
+sample_svcg_*.txt
+historical_data_*.txt
+*.zip
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
