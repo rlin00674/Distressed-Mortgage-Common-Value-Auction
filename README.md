@@ -1,4 +1,4 @@
-# econ136_final_project
+# distressed-mortgage-common-value-auction
 
 Common-value auction model and Monte Carlo simulation for the secondary market
 in distressed mortgage servicing rights (MSRs), calibrated to Freddie Mac
