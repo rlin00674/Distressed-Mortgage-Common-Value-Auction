@@ -1,4 +1,4 @@
-# Freddie Mac loan-level data — do NOT commit (large + license-restricted)
+# Freddie Mac loan-level data
 sample_orig_*.txt
 sample_svcg_*.txt
 historical_data_*.txt
